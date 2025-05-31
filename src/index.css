@@ -1296,3 +1296,8 @@ section {
   margin: 0 auto;
   padding: 0 1rem;
 }
+
+body {
+  overflow-x: hidden;
+}
+
