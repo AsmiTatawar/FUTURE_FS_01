@@ -105,6 +105,29 @@ html {
   }
 }
 
+@media (max-width: 600px) {
+  .navbar ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding-left: 0;
+  }
+
+  .navbar ul li {
+    margin-right: 10px;
+  }
+
+  .intro-section {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .intro-photo {
+    margin-top: 1rem;
+  }
+}
+
 /* Intro section */
 .intro-section {
   display: flex;
@@ -1238,4 +1261,32 @@ body {
   .footer-icons a {
     margin-left: 0;
   }
+}
+
+/* Make sure the body and html take full width and have no margin */
+html, body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* prevents horizontal scroll */
+}
+
+/* Ensure sections stretch to full width */
+section {
+  width: 100%;
+  padding: 2rem 1rem; /* padding for spacing, not margin */
+  box-sizing: border-box;
+}
+
+/* Make the navbar stretch full width */
+.navbar {
+  width: 100%;
+  left: 0;
+  padding: 0 1rem;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
 }
