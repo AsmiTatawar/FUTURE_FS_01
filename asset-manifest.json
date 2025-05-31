@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FUTURE_FS_01/static/css/main.921864f6.css",
+    "main.js": "/FUTURE_FS_01/static/js/main.0ddaa75f.js",
+    "static/js/453.1407b060.chunk.js": "/FUTURE_FS_01/static/js/453.1407b060.chunk.js",
+    "static/media/Asmi.png": "/FUTURE_FS_01/static/media/Asmi.8e277e252804d85117a8.png",
+    "static/media/Asmi Tatawar Updated Resume.pdf": "/FUTURE_FS_01/static/media/Asmi Tatawar Updated Resume.569e28e003478571c366.pdf",
+    "index.html": "/FUTURE_FS_01/index.html",
+    "main.921864f6.css.map": "/FUTURE_FS_01/static/css/main.921864f6.css.map",
+    "main.0ddaa75f.js.map": "/FUTURE_FS_01/static/js/main.0ddaa75f.js.map",
+    "453.1407b060.chunk.js.map": "/FUTURE_FS_01/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.921864f6.css",
+    "static/js/main.0ddaa75f.js"
+  ]
+}
