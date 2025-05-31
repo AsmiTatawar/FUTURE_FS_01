@@ -1,74 +1,41 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# My Portfolio Website 🚀✨
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hey there! Welcome to **My Portfolio**, a sleek, modern showcase of my projects, skills, achievements, and more. It’s built to highlight my work in a clean and engaging way, so you can easily explore what I’m passionate about and what I can do. 💻🎨
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## ✨ What You’ll Find Here  
+- ✅ **About Me** – Who I am and what I love doing  
+- ✅ **Projects Gallery** – A snapshot of cool projects I’ve built  
+- ✅ **Skills Overview** – Technical and soft skills that I bring to the table  
+- ✅ **Resume Section** – Downloadable resume to learn more about my experience  
+- ✅ **Achievements & Certifications** – Milestones and awards  
+- ✅ **Contact Section** – Get in touch easily  
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🔧 Built With  
+- **React.js** – For a smooth, interactive user experience  
+- **CSS (with custom themes)** – Stylish, responsive design  
+- **GitHub Pages** – Hosting my portfolio live for free  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🌐 Check It Out!  
+🔗 https://asmitatawar.github.io/FUTURE_FS_01/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 📁 What’s Inside?  
+/portfolio  
+├── public/          # Static assets and index.html  
+├── src/             # React components and styles  
+├── README.md        # This file you're reading!  
+├── package.json     # Project dependencies and scripts  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# FUTURE_FS_01
->>>>>>> 1faae82b6eab793f47ef61b35267dee74fac6cf0
+## 🚀 Future Plans  
+- ✨ Add a blog section for sharing thoughts and tutorials  
+- 🎨 More interactive UI features and animations  
+- 📈 Integrate analytics to track visitors  
